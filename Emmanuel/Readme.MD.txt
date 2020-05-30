@@ -1,1 +1,0 @@
-This is my folder for setting up by notebooks
