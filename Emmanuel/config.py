@@ -1,0 +1,2 @@
+# Google API Key
+g_key = "AIzaSyDTVJWnGzO8hNPZOVwY32NLHLkrn5XJA2Y"
