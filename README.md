@@ -18,3 +18,5 @@ The data exploration and cleanup process (accompanied by Jupyter Notebook)
 The analysis process (accompanied by Jupyter Notebook)
 Conclusions, which should include a numerical summary and visualizations of that summary
 The implications of the findings: what do they findings mean?
+
+## Matplotlib Seaborn Pandas (scipy, numpy)
